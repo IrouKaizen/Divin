@@ -1,4 +1,4 @@
-/*Voici un programme Java simple qui représente ce concept (voir image) 
+/*Voici un programme Java simple qui représente ce concept (voir image)
 en utilisant des classes et des méthodes pour simuler la notion de
 "Source" et de création fractale :
 */
